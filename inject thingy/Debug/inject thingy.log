@@ -1,0 +1,3 @@
+﻿  main.cpp
+  C:\Users\athannnnnn\source\repos\~internal~\inject thingy\main.cpp(52) : error C4716: 'process_open': must return a value
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: "CL.exe" exited with code 2.

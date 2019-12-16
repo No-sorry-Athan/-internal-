@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\athannnnnn\source\repos\~internal~\inject thingy\main.cpp(24,7): error C2664: 'int wcscmp(const wchar_t *,const wchar_t *)': cannot convert argument 1 from 'CHAR [260]' to 'const wchar_t *'
+C:\Users\athannnnnn\source\repos\~internal~\inject thingy\main.cpp(24,21): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_wstring.h(109,22): message : see declaration of 'wcscmp'
+C:\Users\athannnnnn\source\repos\~internal~\inject thingy\main.cpp(96,1): error C2362: initialization of 'success' is skipped by 'goto fail'
+C:\Users\athannnnnn\source\repos\~internal~\inject thingy\main.cpp(79): message : see declaration of 'success'
+C:\Users\athannnnnn\source\repos\~internal~\inject thingy\main.cpp(96): message : see declaration of 'fail'
